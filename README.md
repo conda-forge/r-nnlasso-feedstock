@@ -1,11 +1,11 @@
-About r-nnlasso
-===============
+About r-nnlasso-feedstock
+=========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-nnlasso-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=nnlasso
 
 Package license: GPL (>= 2)
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-nnlasso-feedstock/blob/main/LICENSE.txt)
 
 Summary: Estimates of coefficients of lasso penalized linear regression and generalized linear models subject to non-negativity constraints on the parameters using multiplicative iterative algorithm. Entire regularization path for a sequence of lambda values can be obtained. Functions are available for creating plots of regularization path, cross validation and estimating coefficients at a given lambda value. There is also provision for obtaining standard error of coefficient estimates.
 
